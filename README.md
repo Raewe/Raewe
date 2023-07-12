@@ -10,10 +10,10 @@
 
 
 ### Hey folks! 👋
-My name is Pedro, I am 20 years old and I currently work as a fullstack web developer, you can find me on social media below. 
+My name is Pedro, I am 21 years old and I currently work as a fullstack web developer, you can find me on social media below. 
 
 ### Stack
-I can program anything, because i love to code and learn. But i'm already know and enjoy: **C++, CSS+HTML, NodeJS, Php**.
+I can program anything, because i love to code and learn. But i'm already know and enjoy: **C++, CSS+HTML, NodeJS**.
 
 
 
@@ -39,11 +39,10 @@ I can program anything, because i love to code and learn. But i'm already know a
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-  <img align="center" alt="Pedro-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<!--  <img align="center" alt="Pedro-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">-->
   <img align="center" alt="Pedro-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pedro-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<!--   <img align="center" alt="Pedro-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
- -->
+
 
 </div>
   
