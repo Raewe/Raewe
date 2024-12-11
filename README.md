@@ -1,19 +1,10 @@
 # Pedro Pompeu
+👋 Olá, sou Pedro H Pompeu, desenvolvedor backend apaixonado por tecnologia! </br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas </br>
+🛠️ Tenho experiência com Python, C,  C++ e Javascript </br>
+🎯 Objetivos: Especializar-me em sistemas embarcados, emuladores e aprofundar meu conhecimento em engenharia da computação. </br>
 
 
-- 🔭 Currently working with back-end
-- 🌱 Learning Embedded system
-- 😄 Pronouns: he
-
-### Hey folks! 👋
-
-My name is Pedro, I am 22 years old and I currently work as a fullstack web developer, you can find me on social media below.
-
-### Stack
-
-I can program anything, because i love to code and learn. But i'm already know and enjoy: **HTML+CSS, NodeJS and C++**.
-
-##
 
 ### Social Media
 
@@ -35,6 +26,8 @@ I can program anything, because i love to code and learn. But i'm already know a
 <img align="center" alt="Pedro-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="Pedro-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+ <img align="center" alt="Pedro-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
 </div>
 
 ##
